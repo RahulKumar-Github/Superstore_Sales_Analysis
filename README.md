@@ -77,27 +77,26 @@ Discount vs. Profitability: A scatter plot reveals the relationship between the 
 Customer Insights: A slicer or filter allows users to focus on specific customer segments or regions, enabling customized analysis.
 
 Page 1: Overall Dashboard
-
 This page provides an overview of the entire dataset, featuring key metrics such as total sales and profit.
 Users can quickly gauge the overall performance of Superstore sales without delving into specific details.
 It serves as an entry point to the more detailed dashboards on subsequent pages.
-Page 2: Sales Trend Dashboard
 
+Page 2: Sales Trend Dashboard
 This page is dedicated to analyzing sales trends over time.
 Visualizations and charts showcase monthly or yearly variations in sales revenue and profit.
 Seasonal patterns and growth trends become evident, aiding in forecasting and strategic planning.
-Page 3: Product Dashboard
 
+Page 3: Product Dashboard
 On this page, users can dive deep into product-related insights.
 It highlights product categories, sub-categories, and top-selling products.
 The focus is on understanding product performance and optimizing inventory and marketing strategies.
-Page 4: Customer Dashboard
 
+Page 4: Customer Dashboard
 This page provides insights into customer-related data.
 Users can explore customer segments, regions, and customer-specific metrics.
 It helps identify the most valuable customers and tailor marketing efforts accordingly.
-Page 5: Q&A Feature
 
+Page 5: Q&A Feature
 The Q&A feature allows users to ask natural language questions and receive data-driven responses.
 It's an interactive and user-friendly way to explore data without predefined dashboards or visualizations.
 Users can type questions like "What were our top-selling products in 2022?" and get instant answers.
