@@ -10,8 +10,9 @@ Exploratory Data Analysis (EDA): Using Pandas, I performed EDA to gain insights 
 Data Visualization: Leveraging Matplotlib and Seaborn, I created a variety of charts and graphs to present the findings effectively. This included bar plots, scatter plots, and time series visualizations.
 Insights: Through this analysis, I identified key trends in sales revenue, profit margins, product categories, and customer segments.
 Recommendations: Based on the insights gained, I proposed actionable recommendations to improve business performance, customer targeting, and product offerings.
-Technologies Used:
 
+
+Technologies Used:
 Python
 Pandas
 Matplotlib
