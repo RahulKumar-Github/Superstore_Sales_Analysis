@@ -99,9 +99,8 @@ It helps identify the most valuable customers and tailor marketing efforts accor
 Page 5: Q&A Feature
 The Q&A feature allows users to ask natural language questions and receive data-driven responses.
 It's an interactive and user-friendly way to explore data without predefined dashboards or visualizations.
-Users can type questions like "What were our top-selling products in 2022?" and get instant answers.
-Overall Purpose:
 
+Overall Purpose:
 The Power BI project aims to provide a comprehensive view of Superstore sales data, enabling stakeholders to make informed decisions.
 Each page serves a specific analytical purpose, ensuring that users can focus on the aspects of the dataset most relevant to their needs.
 The Q&A feature adds a layer of interactivity and accessibility, making it easy for users to obtain insights intuitively.
