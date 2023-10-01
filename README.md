@@ -1,5 +1,5 @@
 # Superstore_Sales_Analysis
-Project Title: Superstore Sales Analysis
+**Project Title: Superstore Sales Analysis**
 
 Description:
 
@@ -24,7 +24,12 @@ Jupyter Notebook
 This project showcases my data analysis skills and ability to extract valuable insights from complex datasets. Feel free to explore the code and visualizations in the Jupyter Notebook provided.
 
 
-Project Title: Sales Analysis of a Retail Store in SQL Server
+
+
+
+
+
+**Project Title: Sales Analysis of a Retail Store in SQL Server**
 
 Description:
 
@@ -51,7 +56,15 @@ T-SQL (Transact-SQL)
 This project demonstrates my proficiency in SQL and data analysis, showcasing the ability to leverage SQL Server Management Studio to extract meaningful business insights from complex datasets.
 
 
-Power BI Dashboard Title: Sales Dashboard of a Retail Store in Power BI
+
+
+
+
+
+
+
+
+**Power BI Dashboard Title: Sales Dashboard of a Retail Store in Power BI**
 
 Overview:
 This Power BI dashboard provides a comprehensive analysis of sales data for a fictional retail company, Superstore. It offers valuable insights into various aspects of the business, helping stakeholders make informed decisions.
